@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+  color: #222;
+  background-color: #EDEDED; 
+}
+navbar {
+  padding: .1rem;
+}
+.navbar-nav li {
+  padding-right: 40px;
+}
+.nav-link {
+  font-size: 1.1em !important;
+}
+
+.latitude {
+    color: white;
+    font-size: 30px;
+    background-color: #0BADA6;
+    padding: 10px
+  }
+
+  .box {
+    margin-top: 40px; 
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 10px 10px 10px; 
+    color:black;
+    background-color: white; 
+   }
+
+
+	
+	
+	
+	
+
+
+
