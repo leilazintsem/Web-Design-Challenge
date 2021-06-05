@@ -1,3 +1,12 @@
+.img-fluid {
+  width: 205px;
+  height: 185px;
+}
+.panel {
+  width: 400px;
+  height: 400px;
+}
+
 html, body {
   height: 100%;
   width: 100%;
